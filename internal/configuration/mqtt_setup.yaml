@@ -2,3 +2,5 @@ mqttBroker: "tcp://localhost:1883"
 mqttClientID: "mqtt-subscriber"
 topic: "knot"
 mqttQoS: 2
+mqttUser: "tas3"
+mqttPass: "tas3"
